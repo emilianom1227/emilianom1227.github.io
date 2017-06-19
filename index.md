@@ -30,6 +30,8 @@ Syntax highlighted code block
  
 [Link](url) and ![Image](src)
 ```
+ ![Glen's dad](https://i.ytimg.com/vi/DOr-5qDlgcY/maxresdefault.jpg)
+ 
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
  
