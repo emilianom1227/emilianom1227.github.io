@@ -1,5 +1,4 @@
- 
-Starter index.md
+
 # Welcome to My Hackathon Page
  
 ## About
